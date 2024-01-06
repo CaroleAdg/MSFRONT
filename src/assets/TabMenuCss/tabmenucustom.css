@@ -1,0 +1,32 @@
+.tabs-menu {
+    padding-top: 40px;
+  }
+  .first-bloc {
+    height: 250px;
+    width: 30%;
+    border:1px solid blue;
+  }
+  .image-bloc {
+    background-image: url("https://vudaf.com/wp-content/uploads/2020/07/Ndole.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 200px;
+  } 
+  .product--informations {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 10px 0px;
+    .price {
+      background-color: #eeeeee ;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 30px;
+      width: 50px;
+      font-size: 20px;
+      border-radius: 10%;
+    }
+  }
+  
+  

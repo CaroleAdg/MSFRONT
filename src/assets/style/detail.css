@@ -1,0 +1,56 @@
+.page {
+    display: flex;
+    justify-content: space-evenly;
+    width: 90%;
+    margin: 0% 4%;
+    margin-top: 4%;
+}
+.top {
+  text-align: left;
+  margin-left: 10%;
+}
+img{
+  border-radius: 20px;
+}
+.add-cart{
+  width: 100%;
+  height: 50px;
+  margin-top: 50px;
+  border: none;
+  font-size: 20px;
+  background-color: #9E1B23;
+  color: white;
+  border-radius: 5px;
+}
+.left{
+  height: 400px;
+  width: 40%;
+ 
+}
+.right {
+  width: 60%;
+  text-align: left;
+  box-shadow: 2px 4px 100px rgba(20, 50, 30, 0.2);
+  z-index: 1;
+  border-radius: 20px;
+  padding: 15px 25px;
+ 
+}
+.description {
+  text-align: justify;
+}
+
+.detailChild {
+  display: flex;
+  justify-content: space-between;
+}
+
+.detailSection {
+  border-top: 2px solid #808080;
+  margin-top: 10px;
+  /*width="300" height="200" style="border: 1px solid black;*/
+}
+
+
+
+
